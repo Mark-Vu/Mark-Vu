@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark Vu</h1>
 <h3 align="center">A passionate student developer from Canada 🍁</h3>
 
+- 🌞 More about me here: https://mark-vu.github.io/portfolio/
+
 - 🌱 I’m currently learning **AWS, Cloud services, Web Security**
 
 - 👯 I’m looking to collaborate on **projects that provides value to the users**
