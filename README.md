@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Flask, Java Spring Boot, ReactJS**
 
-- 📫 How to reach me **mark.dvu.work@gmail.com**
+- 📫 How to reach me **mdv2@sfu.ca**
 
 - ⚡ Fun fact **I play badminton 🏸**
 
