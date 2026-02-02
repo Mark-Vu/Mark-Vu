@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark Vu - 2x</h1>
 <h3 align="center">
-Software Engineer Interned @ 2 x Canadian Tech Unicorns • Backend, Distributed Systems, Cloud Infrastructure
+CS student interned @ 2 x Canadian Tech Unicorns • Backend, Distributed Systems, Cloud Infrastructure
 </h3>
 
 <p align="center">
